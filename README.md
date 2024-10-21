@@ -1,2 +1,0 @@
-# RasterGraphics
-### Photo editting software
