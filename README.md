@@ -1,1 +1,2 @@
-My course project for Object-oriented programming
+# Photo editing software
+## My course project for Object-oriented programming
