@@ -109,6 +109,3 @@ To run **Raster Graphics**, clone this repository and compile the C++ source cod
 
 Feel free to fork this repository, submit pull requests, or file issues. We welcome contributions to add more features, optimize performance, or fix bugs!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
