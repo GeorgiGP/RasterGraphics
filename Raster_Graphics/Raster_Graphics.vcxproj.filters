@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\AddGrayscale.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\AddImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\AddMonochrome.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\AddNegative.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\AddRotateLeft.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\AddRotateRight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\BitSetMatrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\CloseImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\CloseSession.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\CollectionImgTransform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\Command.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\Exit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\FactoryCommand.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\FactoryImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\FactorySessions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\Grayscale.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\Grey.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\Help.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\HorizontalCollage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\ImageTransformations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\ListOfSessions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\Load.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\Manage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\Monochrome.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\Negative.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\PBMImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\PGMImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\PPMImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\RasterGraphics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\RGB.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\RotateLeft.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\RotateRight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\Save.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\SaveAs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\Session.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\SessionInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\SwitchSession.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\Transformation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\Undo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Source\VerticalCollage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Sessions\ElementsSession\CollectionImgTransform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Sessions\ElementsSession\Image\ColorThemes\Grey.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Sessions\ElementsSession\Image\ColorThemes\RGB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Sessions\ElementsSession\Image\Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Sessions\ElementsSession\Image\ImageFormats\PBM\BitSetMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Sessions\ElementsSession\Image\ImageFormats\PBM\PBMImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Sessions\ElementsSession\Image\ImageFormats\PGM\PGMImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Sessions\ElementsSession\Image\ImageFormats\PicturePixels.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Sessions\ElementsSession\Image\ImageFormats\PPM\PPMImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Sessions\ElementsSession\ImageTransformations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Sessions\ListOfSessions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Sessions\Session.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Collection.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Command.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Help.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Manage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\AddGrayscale.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\AddImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\AddMonochrome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\AddNegative.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\AddRotateLeft.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\AddRotateRight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\CloseImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\CloseSession.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\Exit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\HorizontalCollage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\Load.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\Save.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\SaveAs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\SessionInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\SwitchSession.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\Undo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Specific\VerticalCollage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Transformations\Specific\Grayscale.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Transformations\Specific\Monochrome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Transformations\Specific\Negative.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Transformations\Specific\RotateLeft.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Transformations\Specific\RotateRight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Commands\Transformations\Transformation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Factories\FactoryCommand.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Factories\FactoryImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\GeorgiGP\RasterGraphics\RasterGraphics\Factories\FactorySessions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
